@@ -65,13 +65,23 @@ The design prioritizes:
    npx http-server
    ```
 
+## Live Demo
+
+🌐 **Website**: https://jamacon36.github.io/CMS-235-Ethical-Advocacy-Statement/
+
 ## Deployment
 
-This is a static website that can be deployed to any web server or static hosting service:
-- GitHub Pages
+This project is configured for GitHub Pages deployment and can also be deployed to:
+- GitHub Pages (current deployment)
 - Netlify
 - Vercel
 - Any web server with static file support
+
+### GitHub Pages Setup
+1. Go to repository Settings → Pages
+2. Select "Deploy from a branch"
+3. Choose "main" branch and "/ (root)" folder
+4. Site will be available at the URL above
 
 ## Contributing
 
